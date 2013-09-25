@@ -109,6 +109,7 @@ ul.posts span {
 
 .site .footer .contact a {
   color: #8085C1;
+  text-decoration: none;
 }
 
 .site .footer .rss {
