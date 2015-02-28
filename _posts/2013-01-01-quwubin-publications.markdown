@@ -4,7 +4,7 @@ title:  "Publications"
 date:   2013-01-01 18:49:56
 categories: Publication
 ---
-
+0. <strong>Wubin Qu<sup>#</sup></strong> and Chenggang Zhang. <strong>Selecting Specific Pcr Primers with Mfeprimer.</strong> In <strong><i>PCR Primer Design</i></strong>, edited by Chhandak Basu, 1275, 201-213: Springer New York, 2015. [[PDF]](https://jinshuju.net/f/EPv61k)
 0. <strong>Wubin Qu<sup>#</sup></strong>, Yang Zhou<sup>#</sup>, Yanchun Zhang, Yiming Lu, Xiaolei Wang, Dongsheng Zhao, Yi Yang and Chenggang Zhag. <strong>MFEprimer-2.0: A fast thermodynamics-based program for checking PCR primer specificity.</strong> Nucleic Acids Res. 2012, 40 (W1): W205-W208. <strong>(Join first author)</strong>. [[PDF]](/download/QuWB_MFEprimer-2.0_NAR_2012.pdf)
 0. Yang Zhou<sup>#</sup>, <strong>Wubin Qu<sup>#</sup></strong>, Yiming Lu, Yanchuan Zhang, Xiaolei Wang, Dongsheng Zhao, Chenggang Zhang <strong>VizPrimer: a web server for visualised PCR primer design based on known gene structure.</strong> Bioinformatics, 2011, 27(24):3432-3434. <strong>(Join first author)</strong>. [[PDF]](/download/ZhouY_QuWB_VizPrimer_Bioinformatics_2011.pdf)
 0. <strong>Wubin Qu</strong>, Changhong Ren, Yuan Li, Jinping Shi, Jiye Zhang, Xiaolei Wang, Xingyi Hang, Yiming Lu, Dongsheng Zhao and Chenggang Zhang. <strong>Reliability analysis of the Ahringer Caenorhabditis elegans RNAi feeding library: a guide for genome-wide screens.</strong> BMC Genomics, 2011, 12:170. [[PDF]](/download/QuWB_2011_CelRNAi_BMC_Genomiics.pdf)
