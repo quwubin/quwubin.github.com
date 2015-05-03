@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Wubin Qu
+email:       quwubin@gmail.com
+author:      Wubin Qu
+description: "Wubin's personal page."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://quwubin.cn"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-4030556-27
 
 # Optional features
 animated:           false
@@ -16,11 +16,11 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: quwubin
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: quwubin
 stackoverflow_id:
 twitter_username:
 google_plus_id:
