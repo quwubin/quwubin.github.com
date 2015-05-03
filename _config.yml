@@ -6,6 +6,8 @@ description: "Wubin's personal page."
 baseurl:     ""
 url:         "http://quwubin.cn"
 
+timezone: China/Beijing
+
 # Google analytics
 google_analytics: UA-4030556-27
 
