@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title:       Wubin Qu
 email:       quwubin@gmail.com
@@ -51,3 +52,12 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
+=======
+name: Wubin Qu
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables",     "with_toc_data"]
+highlighter: pygments
+timezone: China/Beijing
+baseurl: /
+>>>>>>> refs/remotes/origin/master
