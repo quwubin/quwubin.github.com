@@ -12,8 +12,6 @@ Update date: 2015-1-19
 # Installation
 
 0. Linux and Mac OS X are supported. Tested on Ubuntu Linux 12.04 and Mac OS X 10.8.
-1. Make sure Ruby (version >= 2.0) was installed. If not, please go to [here](https://www.ruby-lang.org/en/) for help.
-2. Install BioRuby gem: `gem install bio`.
 2. Make sure MySQL was installed. If not, please go to [here](http://dev.mysql.com/doc/refman/5.1/en/installing.html) for help.
 3. MySQL: create database "mfeprimerdb" and create user "mfeprimer" with password "mfeprimer". You may use the following command to create database for mprimer:
 
@@ -21,7 +19,7 @@ Update date: 2015-1-19
     create database mfeprimerdb;
     grant all privileges on mfeprimerdb.* to mfeprimer@localhost identified by 'mfeprimer';
     ```
-2. Untar the files: `tar jxvf mprimer-x.x-os.tar.bz2`. (Note: x.x is the version number and os is one of "linux" or "mac".)
+2. Untar the files: `tar jxvf mprimer-x.x-os-64.tar.bz2`. (Note: x.x is the version number and os is one of "linux" or "mac".)
 0. After that, `cd` into the "mprimer" directory, and type `./mprimer`, if installed correctly, you will see the usage message. Otherwise, please contact the author for help.
 
 
