@@ -53,3 +53,5 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
+
+theme: jekyll-theme-minimal
